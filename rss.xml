@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hughes Interprises, Inc.]]></title>
+        <description><![CDATA[Hughes Interprises, Inc.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 15:51:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It's time for me to publish my first site using thegrid.</p>]]></description>
+            <link>undefinedits-time-for-me-to-publish-my-first-site-using-thegrid/index.html</link>
+            <guid isPermaLink="false">be37cefb-6798-4499-b25a-8ec8cfffbf83</guid>
+            <pubDate>Sat, 06 Aug 2016 15:51:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
