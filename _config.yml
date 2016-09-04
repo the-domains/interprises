@@ -1,20 +1,4 @@
-name: interprises
-favicon: null
-layout_spectrum: 0.93823
 typography_spectrum: 0.76915
-title: 'Hughes Interprises, Inc.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0f1427'
@@ -26,4 +10,22 @@ color:
   lightness: 0.39422974502667785
   saturation: 0
   rhythmicContrast: 0.596894346177578
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.93823
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c325578-d1a2-43d0-a3f9-818bd203b1e0.jpg
+name: interprises
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Hughes Interprises, Inc.'
 purpose: []
